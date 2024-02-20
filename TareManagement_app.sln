@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareManagement_app", "TareManagement_app\TareManagement_app.csproj", "{CDC3E71B-FA06-4B84-AFEC-DBF416E97872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDC3E71B-FA06-4B84-AFEC-DBF416E97872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDC3E71B-FA06-4B84-AFEC-DBF416E97872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDC3E71B-FA06-4B84-AFEC-DBF416E97872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDC3E71B-FA06-4B84-AFEC-DBF416E97872}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7510A2B-AEE6-4F9E-A260-CD04736366FE}
+	EndGlobalSection
+EndGlobal
